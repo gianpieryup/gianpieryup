@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**gianpieryup/gianpieryup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gianpieryup/gianpieryup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your perfil GitHub .
 
-Here are some ideas to get you started:
+Te deje una breve descripción de mis repositorios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :house:   Argentina - Perú
+- :tada:   17-08-1998 
+- 📫   Correo: gianpieryup@gmail.com
+- ⚡   Certificados
+
+
+
+Además de repositorios con información variada
