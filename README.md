@@ -1,14 +1,19 @@
 ### Hola 👋
 
-**gianpieryup/gianpieryup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your perfil GitHub .
+Soy Gianpier bienvenido a mi perfil de GitHub
 
-Te deje una breve descripción de mis repositorios
+Un poco sobre mi.
 
 - :house:   Argentina - Perú
-- :tada:   17-08-1998 
+- :tada:   Cumpleaños : 17-08-1998 
 - 📫   Correo: gianpieryup@gmail.com
-- ⚡   Certificados
+- :school:   UTN-FRBA - UBA FECN
 
 
 
 Además de repositorios con información variada
+
+- **ML_cursos** : Información de Machine Learning
+- **Apuntes** : Sobre distintas Tecnologías, lenguajes de programación
+
+Y mas.
