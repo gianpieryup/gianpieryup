@@ -20,8 +20,8 @@ Un poco sobre mi.
     <img src="Iconos_lp\vscodehd.png" width="40" style="margin-right:10px">
     <img src="Iconos_lp\atom.png" width="40" style="margin:4px">    
 </div>
-<br>
-<br>
+<br><br>
+
 
 **BackEnd**
 <div class="backend">
@@ -29,7 +29,7 @@ Un poco sobre mi.
     <img src="Iconos_lp\nodejs.svg" width="40" style="margin:4px">
     <img src="Iconos_lp\php.png" width="47" style="margin:4px">    
 </div>
-<br>
+<br><br>
 
 **FrontEnd**
 <div class="web">
@@ -39,7 +39,7 @@ Un poco sobre mi.
     <img src="Iconos_lp\angular.svg" width="50" style="margin:4px">
     <img src="Iconos_lp\nodejs.png" width="50" style="margin:4px">
 </div>
-<br>
+<br><br>
 
 **DataBase**
 <div class="bases-datos">
@@ -49,7 +49,7 @@ Un poco sobre mi.
         <img src="Iconos_lp\mongodb.png" width="45" style="margin:4px">
         <img src="Iconos_lp\excel.png" width="40" style="margin:4px">
 </div>
-<br>
+<br><br>
 
 **BigData**
 <div class="bigdata">
