@@ -17,8 +17,8 @@ Un poco sobre mi.
 
 **Editor**
 <div class="editor">
-    <img src="Iconos_lp\vscodehd.png" style="margin-right:20px;" width="40" >
-    <img src="Iconos_lp\atom.png" width="40">    
+    <img src="Iconos_lp\vscodehd.png" style="margin-right:20px;" width="40px" >
+    <img src="Iconos_lp\atom.png" width="40px">    
 </div>
 <br><br>
 
