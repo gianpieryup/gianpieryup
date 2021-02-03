@@ -13,9 +13,18 @@ Un poco sobre mi.
 
 
 
+#### Proyectos
+
+Proyecto echo en NodeJS: [Ir al Proyecto](https://github.com/gianpieryup/Hospital)
+
+Proyecto echo en PHP: [Ir al Proyecto](https://github.com/gianpieryup/Darkcode)
+
+
+
 #### Tecnologías
 
 **Editor**
+
 <div class="editor">
     <img src="Iconos_lp\vscodehd.png"  width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
     <img src="Iconos_lp\atom.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
