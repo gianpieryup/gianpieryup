@@ -29,7 +29,6 @@ Siente libre de usar este Repositorio como guía de consulta de distintos lengua
     <img src="Iconos_lp\atom.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
     <img src="Iconos_lp\notePAD.png" width="40px">    
 </div>
-
 <br><br>
 
 **BackEnd**
