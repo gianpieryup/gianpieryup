@@ -4,12 +4,15 @@
 
 Soy Gianpier bienvenido a mi perfil de GitHub
 
-Un poco sobre mi.
 
-- :house:   Argentina - Perú
-- :tada:   Cumpleaños : 17-08-1998 
-- 📫   Correo: gianpieryup@gmail.com
-- :school:   UTN-FRBA - UBA FECN
+
+Biblioteca de Apuntes sobre distintos lenguajes de programación
+
+
+
+Siente libre de usar este Git como guía de consulta de distintos lenguajes de programación
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gianpieryup&repo=Apuntes)](https://github.com/gianpieryup/Apuntes)
 
 
 
@@ -20,6 +23,14 @@ Proyecto echo en NodeJS: [Ir al Proyecto](https://github.com/gianpieryup/Hospita
 Proyecto echo en PHP: [Ir al Proyecto](https://github.com/gianpieryup/Darkcode)
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianpieryup&hide=stars,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianpieryup&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Tecnologías
 
