@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Soy Gianpier :smile: , bienvenido a mi perfil de GitHub
+Soy Gianpier :smile: bienvenido a mi perfil de GitHub
 
 Siente libre de usar este Repositorio como guía de consulta de distintos lenguajes de programación
 
