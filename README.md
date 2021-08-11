@@ -16,7 +16,7 @@ Siente libre de usar este Repositorio como guía de consulta de distintos lengua
 
 ### Estadísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianpieryup&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianpieryup&layout=compact&theme=dark)](https://github.com/gianpieryup/github-readme-stats)
 
 
 
