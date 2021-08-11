@@ -4,19 +4,19 @@ Soy Gianpier :smile: bienvenido a mi perfil de GitHub
 
 Siente libre de usar este Repositorio como guía de consulta de distintos lenguajes de programación
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gianpieryup&repo=Apuntes)](https://github.com/gianpieryup/Apuntes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gianpieryup&repo=Apuntes&theme=dark)](https://github.com/gianpieryup/Apuntes)
 
 
 
 ### Proyectos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gianpieryup&repo=Hospital)](https://github.com/gianpieryup/Hospital)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gianpieryup&repo=Hospital&theme=dark)](https://github.com/gianpieryup/Hospital)
 
 
 
 ### Estadísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianpieryup&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianpieryup&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
