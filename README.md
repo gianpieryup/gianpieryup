@@ -8,19 +8,19 @@ Siente libre de usar este Repositorio como guía de consulta de distintos lengua
 
 
 
-#### Proyectos
+### Proyectos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gianpieryup&repo=Hospital)](https://github.com/gianpieryup/Hospital)
 
 
 
-#### Estadísticas
+### Estadísticas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianpieryup&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-#### Tecnologías
+### Tecnologías
 
 **Editor**
 
