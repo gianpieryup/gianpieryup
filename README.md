@@ -38,8 +38,8 @@ Siente libre de usar este Repositorio como guía de consulta de distintos lengua
     <img src="https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python">
     <img src="https://img.shields.io/badge/-spyder-e61919?style=for-the-badge&logo=spyderide">
     <img src="https://img.shields.io/badge/-php-white?style=for-the-badge&logo=php">
-    <img src="https://img.shields.io/badge/--blue?style=for-the-badge&logo=c&logoColor=white">
 </div>
+
 
 
 
