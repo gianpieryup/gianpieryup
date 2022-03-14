@@ -23,10 +23,15 @@ Siente libre de usar este Repositorio como guía de consulta de distintos lengua
 ### Tecnologías
 
  <div align="center">
-    <h4>EDITOR TEXTO</h4>
+    <h4>CODE AND TOOLS</h4>
     <img src="https://img.shields.io/badge/-vscode-white?style=for-the-badge&logo=visualstudiocode&logoColor=blue">
+    <img src="https://img.shields.io/badge/-Slack-white?style=for-the-badge&logo=slack&logoColor=blue">
     <img src="https://img.shields.io/badge/-notepad++-white?style=for-the-badge&logo=notepadplusplus">
+    <img src="https://img.shields.io/badge/-DataGrip-black?style=for-the-badge&logo=datagrip">
     <img src="https://img.shields.io/badge/-atom-white?style=for-the-badge&logo=atom&logoColor=green">
+    <img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git">
+    <img src="https://img.shields.io/badge/-Teams-white?style=for-the-badge&logo=microsoftteams&logoColor=blueviolet">
+
 </div>
 
 
@@ -59,12 +64,17 @@ Siente libre de usar este Repositorio como guía de consulta de distintos lengua
     <img src="https://img.shields.io/badge/-sqlite-323330?style=for-the-badge&logo=sqlite">
     <img src="https://img.shields.io/badge/-mongodb-white?style=for-the-badge&logo=mongodb">
 </div>
-**BigData**
 
-<div class="bigdata">
-     <img src="Iconos_lp\Datastage.jpg" width="140">
+<div align="center">
+    <h4>BIG DATA</h4>
+    <img src="https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazonaws">
+    <img src="https://img.shields.io/badge/-Airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=01A11F">
+    <img src="https://img.shields.io/badge/-Hive-white?style=for-the-badge&logo=apachehive">
+    <img src="https://img.shields.io/badge/-Oracle-white?style=for-the-badge&logo=oracle&logoColor=green">
+    <img src="https://img.shields.io/badge/-Databricks-white?style=for-the-badge&logo=databricks">
 </div>
 
-
-- **ML_cursos** : Información de Machine Learning
-
+<br><br><br>
+<div align="center">
+    <img src="smtx-data-platform.gif">
+</div>
