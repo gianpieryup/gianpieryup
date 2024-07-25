@@ -2,6 +2,14 @@
 
 Soy Gianpier :smile: bienvenido a mi perfil de GitHub
 
+[![My Skills](https://skillicons.dev/icons?i=aws,py,anaconda,mongodb,mysql)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,nodejs,php)](https://skillicons.dev)
+
 Siente libre de usar este Repositorio como guía de consulta de distintos lenguajes de programación
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gianpieryup&repo=Apuntes&theme=dark)](https://github.com/gianpieryup/Apuntes)
