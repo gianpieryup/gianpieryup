@@ -1,14 +1,38 @@
-### Hola 👋
+## Hola 👋
 
-Soy Gianpier :smile: bienvenido a mi perfil de GitHub
+Soy Yuu-Panki :smile: bienvenido a mi perfil de GitHub
 
-[![My Skills](https://skillicons.dev/icons?i=aws,py,anaconda,mongodb,mysql)](https://skillicons.dev)
+<picture> <img align="right" src="icon/anime.png" width = 200px></picture>
+<div> 
+Las tecnologias que mas uso:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+<img src="icon/python.svg" width="50">
+<img src="icon/vscode.svg" width="50">
+<img src="icon/aws.svg" width="50">
+<img src="icon/apacheairflow.svg" width="50">
+<img src="icon/presto.svg" width="50">
+<img src="icon/apachehive.svg" width="50">
+<img src="icon/gitlab.svg" width="50">
+<img src="icon/MongoDB.svg" width="50">
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,nodejs,php)](https://skillicons.dev)
+Con las que juego:
+
+<img src="icon/anaconda.svg" width="50">
+<img src="icon/Npm.svg" width="50">
+<img src="icon/TensorFlow.svg" width="50">
+<img src="icon/Git.svg" width="50">
+<img src="icon/Markdown.svg" width="50">
+</div>
+
+<br>
+
+<hr>
+
+Lo que curse de Desarrollo Web hace un tiempo:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,nodejs,php,mysql)](https://skillicons.dev)
 
 Siente libre de usar este Repositorio como guía de consulta de distintos lenguajes de programación
 
