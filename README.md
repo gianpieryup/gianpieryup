@@ -1,15 +1,12 @@
 ## Hola 👋
 
-Soy Yuu-Panki :smile: bienvenido a mi perfil de GitHub
-
 <picture> <img align="right" src="icon/anime.png" width = 200px></picture>
+
+Soy Yuu-Panki :smile: bienvenido a mi perfil de GitHub
 
 Las tecnologias que mas uso:
 
-
 <div> 
-
-
 <img src="icon/python.svg" width="50">
 <img src="icon/vscode.svg" width="50">
 <img src="icon/aws.svg" width="50">
