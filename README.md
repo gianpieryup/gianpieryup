@@ -8,6 +8,7 @@ Las tecnologias que mas uso:
 
 <div> 
 <img src="icon/python.svg" width="50">
+<img src="icon/spark.svg" width="50">
 <img src="icon/vscode.svg" width="50">
 <img src="icon/aws.svg" width="50">
 <img src="icon/apacheairflow.svg" width="50">
