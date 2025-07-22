@@ -1,8 +1,6 @@
 ## Hola 👋
 
-<picture> <img align="right" src="icon/anime.png" width = 200px></picture>
-
-Soy Yuu-Panki :smile: bienvenido a mi perfil de GitHub
+:smile: bienvenido a mi perfil de GitHub
 
 Las tecnologias que mas uso:
 
